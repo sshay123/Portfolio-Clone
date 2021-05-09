@@ -1,0 +1,9 @@
+.img-thumbnail {
+    max-width: 50%; /* or to whatever you want here */
+    max-height: auto; /* or to whatever you want here */
+    border: none;
+  }
+
+.p-padding{
+  padding-top: 10px;
+}
